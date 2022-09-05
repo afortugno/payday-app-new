@@ -9,7 +9,7 @@ import Routes from 'routes';
 // defaultTheme
 import themes from 'themes';
 
-// project imports
+// project importsss
 import NavigationScroll from 'layout/NavigationScroll';
 
 // ==============================|| APP ||============================== //
